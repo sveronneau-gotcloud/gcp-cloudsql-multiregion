@@ -1,3 +1,5 @@
+[![infracost](https://img.shields.io/endpoint?url=https://dashboard.api.infracost.io/shields/json/e54aa888-a9cf-4b07-96b4-7a3e2e11cb4e/repos/f048f4e5-b69a-4e13-b3c6-2a4ba6a46526/branch/8f29e761-da44-430b-8b4f-ca11cd715e75)](https://dashboard.infracost.io/org/sveronneau-je25l/repos/f048f4e5-b69a-4e13-b3c6-2a4ba6a46526)
+
 # Cloud SQL instance with multi-region read replicas
 
 From startups to enterprises, database disaster recovery planning is critical to provide the continuity of processing. While Cloud SQL does provide high availability within a single region, regional failures or unavailability can occur from cyber attacks to natural disasters. Such incidents or outages lead to a quick domino effect for startups, making it difficult to recover from the loss of revenue and customers, which is especially true for bootstrapped or lean startups. It is critical that your database is regionally resilient and made available promptly in a secondary region. With Cloud SQL for PostgreSQL, you can configure cross-region read replicas for a complete DR failover and fallback process.
